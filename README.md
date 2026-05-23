@@ -6,3 +6,7 @@ Image of ScunGun with realsense
 
 Image of ScunGun standing without realsense
 <img width="1424" height="1600" alt="WhatsApp Image 2026-05-09 at 15 43 47" src="https://github.com/user-attachments/assets/a8a0e456-b3aa-4387-a8ea-9736ba253e0b" />
+
+Connections diagram
+<img width="781" height="753" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/4b3224a5-8e6a-4456-82e9-699a13ad9e95" />
+
