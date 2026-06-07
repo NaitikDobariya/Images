@@ -10,3 +10,9 @@ Image of ScunGun standing without realsense
 Connections diagram
 <img width="781" height="753" alt="Untitled design (1)" src="https://github.com/user-attachments/assets/4b3224a5-8e6a-4456-82e9-699a13ad9e95" />
 
+Pandabot Mesh image
+<img width="1139" height="1006" alt="Screenshot from 2026-05-27 15-48-12" src="https://github.com/user-attachments/assets/c0ee372c-1c3c-460c-b902-d7ceb7ae9234" />
+
+Pandabot 
+<img width="737" height="717" alt="WhatsApp Image 2026-05-24 at 09 49 57" src="https://github.com/user-attachments/assets/f9faa77e-8a82-4ac8-b19b-063143543254" />
+
